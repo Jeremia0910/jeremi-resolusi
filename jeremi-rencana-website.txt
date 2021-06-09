@@ -1,6 +1,8 @@
 RENCANA WEBSITE JEREMI
 
 - Bootstrap
+  * paham semua isi bootstrap
+  * framework
 - Portfolio
 - Laravel
 - PHP framework
